@@ -10,12 +10,12 @@ int main()
 		cout << "arr[" << i << "]-";
 		cin >> arr[i];
 	}
-	cout << "ğåçóëüòèğóşùèé ìàññèâ:"<<endl;
+	cout << "Ñ€ĞµĞ·ÑƒĞ»ÑŒÑ‚Ğ°Ñ‚Ğ¸Ñ€ÑƒÑÑ‰Ğ¸Ğ¹ Ğ¼Ğ°ÑÑĞ¸Ğ²:"<<endl;
 	for (int i = 0; i < N; i++)
 	{
 		cout << arr[i] << " "<<endl;
 	}
-	return 0;//ñòàòè÷åñêèé ìàññèâ
+	return 0;
 }
 
 
